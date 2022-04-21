@@ -29,11 +29,11 @@ $mail->SMTPAuth = true;
 //Set smtp encryption type (ssl/tls)
 $mail->SMTPSecure = "tls";
 //Port to connect smtp
-$mail->Port = "587";
+$mail->Port = "";
 //Set gmail username
-$mail->Username = "8raca8@gmail.com";
+$mail->Username = "";
 //Set gmail password
-$mail->Password = "Raca1998-";
+$mail->Password = "";
 //Email subject
 $mail->Subject = "Movies Contact Form";
 //Set sender email
